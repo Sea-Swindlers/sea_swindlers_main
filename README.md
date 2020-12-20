@@ -11,5 +11,5 @@ cd src
 git submodule init
 git submodule update
 cd ..
-catkin_make
+catkin_make_isolated
 ```
